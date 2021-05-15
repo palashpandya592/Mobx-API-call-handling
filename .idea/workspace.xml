@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b170d811-e71c-4103-a91d-fa864c0db41d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.fvm/flutter_sdk/dev/devicelab/lib/tasks/hot_mode_tests.dart" beforeDir="false" afterPath="$PROJECT_DIR$/.fvm/flutter_sdk/dev/devicelab/lib/tasks/hot_mode_tests.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.fvm/flutter_sdk/dev/integration_tests/flutter_gallery/lib/demo/shrine/app.dart" beforeDir="false" afterPath="$PROJECT_DIR$/.fvm/flutter_sdk/dev/integration_tests/flutter_gallery/lib/demo/shrine/app.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectId" id="1pn5Th3edwSkmW2A9atnmoknLNL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/Screen" />
+      <recent name="$PROJECT_DIR$/lib/Service" />
+      <recent name="$PROJECT_DIR$/lib/model" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b170d811-e71c-4103-a91d-fa864c0db41d" name="Default Changelist" comment="" />
+      <created>1615806022785</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615806022785</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="325" y="158" key="#PSD" timestamp="1621049982411">
+      <screen x="0" y="23" width="1600" height="792" />
+    </state>
+    <state x="325" y="158" key="#PSD/0.23.1600.792@0.23.1600.792" timestamp="1621049982411" />
+    <state x="264" y="89" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1615806804282">
+      <screen x="0" y="23" width="1600" height="809" />
+    </state>
+    <state x="264" y="89" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1600.809@0.23.1600.809" timestamp="1615806804282" />
+    <state x="538" y="181" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1615808263613">
+      <screen x="0" y="23" width="1600" height="809" />
+    </state>
+    <state x="538" y="181" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1600.809@0.23.1600.809" timestamp="1615808263613" />
+    <state width="1558" height="417" key="GridCell.Tab.0.bottom" timestamp="1621060495624">
+      <screen x="0" y="23" width="1600" height="792" />
+    </state>
+    <state width="1558" height="417" key="GridCell.Tab.0.bottom/0.23.1600.792@0.23.1600.792" timestamp="1621060495624" />
+    <state width="1558" height="219" key="GridCell.Tab.0.bottom/0.23.1600.809@0.23.1600.809" timestamp="1615811915795" />
+    <state width="1558" height="417" key="GridCell.Tab.0.center" timestamp="1621060495624">
+      <screen x="0" y="23" width="1600" height="792" />
+    </state>
+    <state width="1558" height="417" key="GridCell.Tab.0.center/0.23.1600.792@0.23.1600.792" timestamp="1621060495624" />
+    <state width="1558" height="219" key="GridCell.Tab.0.center/0.23.1600.809@0.23.1600.809" timestamp="1615811915795" />
+    <state width="1558" height="417" key="GridCell.Tab.0.left" timestamp="1621060495624">
+      <screen x="0" y="23" width="1600" height="792" />
+    </state>
+    <state width="1558" height="417" key="GridCell.Tab.0.left/0.23.1600.792@0.23.1600.792" timestamp="1621060495624" />
+    <state width="1558" height="219" key="GridCell.Tab.0.left/0.23.1600.809@0.23.1600.809" timestamp="1615811915794" />
+    <state width="1558" height="417" key="GridCell.Tab.0.right" timestamp="1621060495624">
+      <screen x="0" y="23" width="1600" height="792" />
+    </state>
+    <state width="1558" height="417" key="GridCell.Tab.0.right/0.23.1600.792@0.23.1600.792" timestamp="1621060495624" />
+    <state width="1558" height="219" key="GridCell.Tab.0.right/0.23.1600.809@0.23.1600.809" timestamp="1615811915795" />
+    <state x="301" y="58" key="SettingsEditor" timestamp="1621062558316">
+      <screen x="0" y="23" width="1600" height="792" />
+    </state>
+    <state x="301" y="58" key="SettingsEditor/0.23.1600.792@0.23.1600.792" timestamp="1621062558316" />
+    <state x="415" y="36" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1621051945921">
+      <screen x="0" y="23" width="1600" height="792" />
+    </state>
+    <state x="415" y="36" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1600.792@0.23.1600.792" timestamp="1621051945921" />
+    <state x="583" y="340" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1621060844247">
+      <screen x="0" y="23" width="1600" height="792" />
+    </state>
+    <state x="583" y="340" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1600.792@0.23.1600.792" timestamp="1621060844247" />
+    <state x="492" y="174" width="800" height="490" key="find.popup" timestamp="1621058536049">
+      <screen x="0" y="23" width="1600" height="792" />
+    </state>
+    <state x="492" y="174" width="800" height="490" key="find.popup/0.23.1600.792@0.23.1600.792" timestamp="1621058536049" />
+    <state x="452" y="214" key="git4idea.merge.GitPullDialog" timestamp="1621060852714">
+      <screen x="0" y="23" width="1600" height="792" />
+    </state>
+    <state x="452" y="214" key="git4idea.merge.GitPullDialog/0.23.1600.792@0.23.1600.792" timestamp="1621060852714" />
+    <state x="465" y="153" width="670" height="662" key="search.everywhere.popup" timestamp="1621058520071">
+      <screen x="0" y="23" width="1600" height="792" />
+    </state>
+    <state x="465" y="153" width="670" height="662" key="search.everywhere.popup/0.23.1600.792@0.23.1600.792" timestamp="1621058520071" />
+    <state x="465" y="156" width="670" height="676" key="search.everywhere.popup/0.23.1600.809@0.23.1600.809" timestamp="1615809185480" />
+  </component>
+</project>
